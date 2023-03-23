@@ -40,4 +40,3 @@ int main()
   printf("%s\n", password);
   
   free(password);
-  return 0;
